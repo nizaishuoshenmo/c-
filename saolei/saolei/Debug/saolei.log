@@ -1,0 +1,3 @@
+﻿  saolei.c
+D:\c语言专用\saolei\saolei\saolei\saolei.c(99,10): warning C4476: "printf": 格式说明符中的类型字段字符“\xe6”未知
+  saolei.vcxproj -> D:\c语言专用\saolei\saolei\Debug\saolei.exe
